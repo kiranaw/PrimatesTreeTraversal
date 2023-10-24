@@ -41,3 +41,12 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 ## 12. Citation of the RB
 
 ## 13. Example implementation of the RBB to demonstrate its use
+
+## 14. Use history
+
+## 15. A manual and/or tutorial, in particular for more complex RBBs
+
+## 16. Relationship to other RBs
+
+## 17. References
+
