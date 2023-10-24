@@ -9,7 +9,7 @@ Kirana Widyastuti, Uta Berger
 tree network, forest, movement, tree canopy
 
 ## 4. The purpose of the RBB
-The PrimateTreesTraversal Reusable Building Block is developed to represent how primates travel between trees in the forest. 
+The PrimateTreesTraversal Reusable Building Block is developed to represent how primates travel between trees in the forest. The tree characteristics (i.e., dbh, height, canopy radius) determines the mode of travel performed by the primate.
 
 ## 5. Concepts
 
