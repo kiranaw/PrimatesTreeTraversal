@@ -12,7 +12,6 @@ to orangutan-move
           set visited-fruiting-tree lput target-tree visited-fruiting-tree
       ]
     ]
-    ;if i have arboreal route to traverse
     [
       ;remove the first & current tree from list 
       if [who] of item 0 path-route = [who] of one-of trees-here ;check if the route map contains my current tree..
