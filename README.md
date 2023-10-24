@@ -31,3 +31,13 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 ## 7. Pseudocode, a Flowchart or other type of graphical representation
 
 ## 8. The program code
+
+## 9. Example analyses of a simulation output, test cases and benchmarks
+
+## 10. Version control
+
+## 11. Status info
+
+## 12. Citation of the RB
+
+## 13. Example implementation of the RBB to demonstrate its use
