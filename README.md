@@ -17,6 +17,10 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 ### Entity
 
+- What entity, or entities, are running the submodel or are involved (e.g., by providing information)?
+- What state variables does the entity need to have to run this RBB?
+- Which other variables describe the entities?
+
 ### Context, model parameters & patterns
 
 ### Patterns and data to determine parameters and/or to claim that the RBB is realistic enough for its purpose
@@ -38,7 +42,7 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 ## 11. Status info
 
-## 12. Citation of the RB
+## 12. Citation of the RBB
 
 ## 13. Example implementation of the RBB to demonstrate its use
 
