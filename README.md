@@ -13,3 +13,21 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 ## 5. Concepts
 
+## 6. An overview of the RB and its use
+
+### Entity
+
+### Context, model parameters & patterns
+
+### Patterns and data to determine parameters and/or to claim that the RBB is realistic enough for its purpose
+
+### Interface - A list of all inputs and outputs of the RB
+#### Inputs
+
+#### Outputs
+
+### Scales
+
+## 7. Pseudocode, a Flowchart or other type of graphical representation
+
+## 8. The program code
