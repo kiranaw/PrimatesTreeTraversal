@@ -15,7 +15,7 @@ to orangutan-move
     ]
     ;if i have arboreal route to traverse
     [
-      ;remove the first & current tree from list --> make sure it doesn't waste a timestep staying on the same tree
+      ;remove the first & current tree from list 
       if [who] of item 0 path-route = [who] of one-of trees-here ;check if the route map contains my current tree..
       [set path-route remove-item 0 path-route] ;if so, remove this tree from my route map
 
