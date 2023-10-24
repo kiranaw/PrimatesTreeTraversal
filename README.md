@@ -13,7 +13,7 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 ## 5. Concepts
 
-## 6. An overview of the RB and its use
+## 6. An overview of the RBB and its use
 
 ### Entity
 
