@@ -50,6 +50,8 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 #### Scales
 
+One grid cell represents 1 sqm. One timestep corresponds to one second.
+
 ## 7. Pseudocode, a Flowchart or other type of graphical representation
 
 ## 8. The program code
