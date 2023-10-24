@@ -3,7 +3,7 @@
 PrimateTreesTraversal
 
 ## 2. The author(s) names & affiliation(s)
-Kirana Widyastuti
+Kirana Widyastuti, Uta Berger
 
 ## 3. Keywords
 tree network, forest, movement, tree canopy
