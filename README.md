@@ -26,7 +26,7 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 #### Outputs
 
-### Scales
+#### Scales
 
 ## 7. Pseudocode, a Flowchart or other type of graphical representation
 
