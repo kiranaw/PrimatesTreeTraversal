@@ -1,7 +1,6 @@
 to orangutan-move
  ask orangutans
  [
-    ;check if an arboreal route to target exists, if not:
     ifelse path-route = [] or path-route = false ;if orangutan reached target or there is no arboreal link
     [
       ;if this is a fruiting tree
