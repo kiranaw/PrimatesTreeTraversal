@@ -18,17 +18,35 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 ### Entity
 
 - What entity, or entities, are running the submodel or are involved (e.g., by providing information)?
+  - The agents are a primate individual and trees represented as network nodes   
 - What state variables does the entity need to have to run this RBB?
+  - a primate has a destination tree
+  - trees have canopy radius and height
 - Which other variables describe the entities?
+  - primate body weight  
 
 ### Context, model parameters & patterns
 
++ What global variables (e.g., parameters characterising the environment) or data structures (e.g., a gridded spatial environment) does the use of the RBB require?
++ Does the RBB directly affect global variables or data structures?
++ What parameters does the RBB use? Preferably a table including parameter name, meaning, default value, range, and unit (if applicable). 
+
 ### Patterns and data to determine parameters and/or to claim that the RBB is realistic enough for its purpose
 
-### Interface - A list of all inputs and outputs of the RB
+### Interface - A list of all inputs and outputs of the RBB
 #### Inputs
 
+| Input                 | Unit   |
+|-----------------------|--------|
+| x | y |
+| y | x |
+
 #### Outputs
+
+| Output         | Unit     |
+|----------------|----------|
+| x | y |
+| y | x |
 
 #### Scales
 
