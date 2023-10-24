@@ -50,7 +50,7 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 ## 15. A manual and/or tutorial, in particular for more complex RBBs
 
-## 16. Relationship to other RBs
+## 16. Relationship to other RBBs
 
 ## 17. References
 
