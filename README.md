@@ -45,7 +45,7 @@ The PrimateTreesTraversal Reusable Building Block is developed to represent how 
 
 | Output         | Unit     |
 |----------------|----------|
-| x | y |
+| energy cost of movement | kcal |
 | y | x |
 
 #### Scales
