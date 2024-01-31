@@ -1,6 +1,6 @@
 # RBB_PrimatesTreeTraversal
 ## 1. The name of the RBB
-PrimateTreesTraversal to describe the movement of primqtes which are influenced by the tree structure and connections. This is a part of the model Borneo https://github.com/kiranaw/Borneo
+PrimateTreesTraversal to describe the movement of primates which are influenced by the tree structure and connections. This is a part of the model Borneo https://github.com/kiranaw/Borneo
 
 ## 2. The author(s) names & affiliation(s)
 Kirana Widyastuti, Institute of Forest Growth and Computer Sciences, TU Dresden
