@@ -13,16 +13,18 @@ tree network, forest, movement, tree canopy
 The PrimateTreesTraversal Reusable Building Block is developed to represent how primates travel between trees in the forest. The tree characteristics (i.e., dbh, height, canopy radius) determines the mode of travel performed by the primate.
 
 ## 5. Concepts
+-
 
 ## 6. An overview of the RBB and its use
 
 ### Entity
 
 - What entity, or entities, are running the submodel or are involved (e.g., by providing information)?
-  - The agents are a primate individual and trees represented as network nodes   
+  - The entity that perform movement is a primate individual
+  - Trees are represented as network nodes, and are entities that facilitate the movement of a primate   
 - What state variables does the entity need to have to run this RBB?
-  - a primate has a destination tree
-  - trees have canopy radius and height
+  - A primate stores information about the tree it would like to reach (i.e. destination tree)
+  - Each tree have canopy radius and height which determine links between tree nodes
 - Which other variables describe the entities?
   - primate body weight  
 
