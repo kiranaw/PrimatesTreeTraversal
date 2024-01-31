@@ -3,7 +3,8 @@
 PrimateTreesTraversal to describe the movement of primqtes which are influenced by the tree structure and connections. This is a part of the model Borneo https://github.com/kiranaw/Borneo
 
 ## 2. The author(s) names & affiliation(s)
-Kirana Widyastuti, Uta Berger
+Kirana Widyastuti, Institute of Forest Growth and Computer Sciences, TU Dresden
+Uta Berger, Institute of Forest Growth and Computer Sciences, TU Dresden
 
 ## 3. Keywords
 tree network, forest, movement, tree canopy
